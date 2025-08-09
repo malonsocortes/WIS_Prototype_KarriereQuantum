@@ -1,2 +1,9 @@
 # WIS_Prototype_KarriereQuantum
-Wave Interference Simulator (WIS) is an audiovisual prototype trying to represent through sound and images, three quantum effects: interference, entanglement and superposition. This is a prototype created for the Karriere Quantum Camp London 2025.
+Wave Interference Simulator (WIS) is an audiovisual prototype trying to represent, through sound and images, three quantum effects: interference, entanglement and superposition. This prototype was created for the Karriere Quantum Camp London 2025.
+
+Authors:
+Emina
+Maria
+Álvaro
+Marina
+
